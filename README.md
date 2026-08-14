@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Saeed Ansari 👋
 
-<!--
-**saeedshz1990/saeedshz1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.NET Backend Developer focused on building reliable, maintainable, and scalable backend applications.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend**
+
+* C#
+* .NET / ASP.NET Core
+* REST APIs
+* Entity Framework Core
+* Dapper
+* LINQ
+
+**Databases**
+
+* SQL Server
+* PostgreSQL
+* MongoDB
+* Redis
+
+**Architecture & Engineering**
+
+* Clean Architecture
+* Domain-Driven Design (DDD)
+* CQRS
+* SOLID Principles
+* Unit Testing
+* Integration Testing
+
+**Tools**
+
+* Git & GitHub
+* Azure DevOps
+* Postman
+* Swagger / OpenAPI
+
+## Engineering Focus
+
+I enjoy working on backend systems with a strong focus on:
+
+* Clean and maintainable code
+* Well-structured application architecture
+* Data integrity and performance
+* RESTful API design
+* Automated testing
+* Solving real-world business problems without unnecessary complexity
+
+## Featured Projects
+
+Selected projects will be added here as I continue organizing and improving my public repositories.
+
+## Connect with Me
+
+* LinkedIn: [linkedin.com/in/sansary](https://www.linkedin.com/in/sansary/)
+* Email: [ansarisaeid.dev@gmail.com](mailto:ansarisaeid.dev@gmail.com)
